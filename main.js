@@ -29,7 +29,7 @@ function IsFruitInList(fruitToCheck, fruitList) {
 
 	// Return wether or not we found the fruit in the list
 	return foundFruitInList;
-}
+}   
 
 /*
 //	CheckFruitsFromUserInput
